@@ -1,0 +1,16 @@
+{
+    "companies" : [
+        {
+            "logo" : "./img/iislogo-removebg-preview.png",
+            "name" : "Inside Out Installation",
+            "position_time" : "Installation Technician, Jun 2022 - Present",
+            "discription" : "Splicing fiber, climbing ladders, kicking ass, taking names"
+        },
+        {
+            "logo" : "./img/patere-removebg-preview.png",
+            "name" : "Bio-Techne",
+            "position_time" : "Software Engineering Intern, May. 2021 - Dec. 2021",
+            "discription" : "Developing and maintaining their production tracking software. TBD: add more details. Ruby on rails, mysql, nginx"
+        }
+    ]
+}

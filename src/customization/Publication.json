@@ -1,0 +1,8 @@
+{
+    "journal" : [{
+        "title" : "yeah maybe I could convert this page into a blog or something. Create a css printing animation for different entries, maybe. If I really wanted to go all out I could simulate a shell with a blog directory, open up different entries by having people type out 'vim ./whatever_blog_entry.txt'",
+        "author" : "me obviously",
+        "organization" : "who cares",
+        "link" : "https://whatever.gov"
+    }]
+}

@@ -1,0 +1,18 @@
+{
+    "projects" : [
+        {
+            "project_img" : "./img/demo.png",
+            "project_name" : "Max Jytyla",
+            "project_about" : "The website ur currently looking at. The UI is a react template to which I've provided a link, but I built the backend from scratch.",
+            "project_tool" : "React, Node, CSS, HTML",
+            "project_link" : "https://github.com/chi-0828/profile-site"
+        },
+        {
+            "project_img" : "./img/project.png",
+            "project_name" : "TBD",
+            "project_about" : "Maybe stick the natas scripts here? I could convert the publication tab into a quasi-blog to that effect.",
+            "project_tool" : "Too much time on my hands",
+            "project_link" : "THe overthewire natas challenges"
+        }
+    ]
+}

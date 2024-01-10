@@ -1,0 +1,14 @@
+{
+    "schools" : [{
+        "logo" : "./img/schoollogo1.png",
+        "name" : "University of Minnesota",
+        "degree" : "BA Comp Sci",
+        "time" : "2021 - Present"
+    },{
+        "logo" : "./img/schoollogo2.png",
+        "name" : "School of hard knocks lol",
+        "degree" : "PHD, Prussian Literature and Homeopathy",
+        "time" : "1337 - 80085"
+    }
+   ]
+}
